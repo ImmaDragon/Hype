@@ -1,0 +1,201 @@
+id,stats_inc_id,team_id,playerstats_id,first,last,num,pos,import_status,height,weight,birthdate,birthplace,college,yrsteam,yrsleague,ros_status,created_at
+1,286491,11,5962,Damon,Allen,9,1,1,6.00,186,1963-07-29,"San Diego, CA","Cal State Fullerton",5,23,3,"2008-04-18 11:42:17"
+3,NULL,11,5983,Sandy,Annunziata,66,7,0,6.02,300,1969-10-11,"Fort Erie, Ontario","Western Ontario",1,10,3,"2008-04-18 11:42:17"
+5,NULL,11,6048,Bruce,Beaton,62,9,0,,0,NULL,,Acadia,0,0,3,"2008-04-18 11:42:17"
+7,NULL,11,6063,Daved,Benefield,7,14,1,6.03,245,1968-02-16,"Los Angeles, California","Cal State Northridge",2,13,3,"2008-04-18 11:42:17"
+9,NULL,11,6333,Jamie,Crysdale,67,6,0,6.04,289,1968-12-14,"Mississauga, Ontario",Cincinnati,13,13,3,"2008-04-18 11:42:17"
+11,286477,11,6522,Sean,Fleming,11,16,0,6.03,190,1970-03-19,"Burnaby, BC",Wyoming,16,16,3,"2008-04-18 11:42:17"
+13,NULL,11,6553,Malcolm,Frank,10,11,1,5.08,182,1968-11-05,"Beaumont, TX",Baylor,8,10,3,"2008-04-18 11:42:17"
+15,NULL,11,7048,Cory,Mantyka,68,8,0,6.05,299,1970-05-31,"Saskatoon, Saskatchewan",Jamestown,14,14,3,"2008-04-18 11:42:17"
+17,NULL,11,7121,Danny,McManus,14,1,0,6.00,220,1965-06-17,"Dania, Florida","Florida State",1,17,3,"2008-04-18 11:42:17"
+19,NULL,11,7183,Chris,Morris,60,8,0,6.05,290,1968-09-13,"Scarborough, ON",Toronto,14,14,3,"2008-04-18 11:42:17"
+21,286764,11,7199,Yo,Murphy,5,4,1,5.11,190,1971-05-11,"San Pedro, CA",Idaho,8,8,3,"2008-04-18 11:42:17"
+23,NULL,10,0,"Tory ",Collins,99,21,1,6.02,285,1982-12-19,"New Orleans, LA","Northwestern State",2,1,4,"2008-04-18 11:42:23"
+25,22202,11,7581,Milt,Stegall,85,5,1,6.00,189,1970-01-25,Cincinnatti,"Miami (Ohio)",14,14,3,NULL
+27,NULL,11,7715,Gerald,Vaughn,39,13,1,6.04,207,1970-04-08,"Abbeville, Mississippi",Mississippi,13,13,3,"2008-04-18 11:42:17"
+29,286501,10,7783,Troy,Westwood,74,17,0,5.10,190,1967-03-21,"Selkirk, MB","Augustana College Sioux Falls",19,19,3,NULL
+31,286509,9,7938,Anthony,Calvillo,13,1,1,6.01,213,1972-08-23,"East Los Angeles, CA","Utah State",16,20,15,NULL
+33,286992,4,8002,Paul,McCallum,15,16,0,5.11,185,1970-01-07,"Vancouver, BC","Surrey Rams (Jrs)",13,23,3,NULL
+35,25872,11,8045,Dave,Dickenson,15,1,1,5.11,195,1973-01-11,"Great Falls, Montana",Montana,11,11,3,"2008-04-18 11:42:17"
+37,NULL,11,8160,Adrion,Smith,12,10,1,5.10,180,1971-09-29,"Kansas City, MO","Southwest Missouri State",11,13,3,"2008-04-18 11:42:17"
+39,NULL,10,8191,Ray,Jacobs,53,14,1,6.02,257,1972-08-18,"Hampstead, North Carolina","North Carolina",1,7,4,"2008-04-18 11:42:17"
+41,286489,11,8247,Terry,Vaughn,2,4,1,5.08,175,1971-12-25,"Sumter, SC",Arizona,12,12,3,"2008-04-18 11:42:17"
+43,286725,11,8330,Uzooma,Okeke,53,8,1,6.00,310,1970-09-03,"Beaumont, TX","Southern Methodist",11,14,3,"2008-04-18 11:42:17"
+45,NULL,11,8340,Fred,Childress,69,7,1,6.04,345,1966-09-17,"West Helena, AR",Arkansas,3,13,3,"2008-04-18 11:42:17"
+47,NULL,11,8554,Johnny,Scott,72,15,1,6.02,270,1969-07-15,"Austin, Texas","No College",12,12,3,"2008-04-18 11:42:17"
+49,NULL,11,8610,Ed,Philion,75,15,0,6.03,288,1970-03-27,"Essex, ON","Ferris State",9,9,3,"2008-04-18 11:42:17"
+51,286552,11,8615,Mike,Morreale,18,4,0,6.03,210,1971-08-10,"Hamilton, ON",McMaster,8,12,3,"2008-04-18 11:42:17"
+53,23314,11,8616,Andrew,Greene,68,7,0,6.03,315,1969-09-24,"Kingston, Jamaica",Indiana,10,10,3,"2008-04-18 11:42:17"
+55,286633,11,8632,Jay,McNeil,50,7,0,6.04,310,1970-08-20,"London, ON","Kent State",13,13,3,"2008-04-18 11:42:17"
+57,NULL,11,8970,Travis,Moore,83,5,1,6.01,193,1970-08-05,"Santa Monica, CA","Ball State",3,11,3,"2008-04-18 11:42:17"
+59,NULL,11,9015,Mike,Crumb,37,12,0,6.00,194,1970-11-24,"Kelowna, BC",Saskatchewan,1,9,3,"2008-04-18 11:42:17"
+61,286520,10,10520,Randy,Srochenski,45,13,0,6.02,218,1973-01-15,"Regina, SK","Regina Jrs.",5,12,4,"2008-04-18 11:42:17"
+63,246365,NULL,119324,Jason,Shivers,2,11,1,6.01,191,1982-11-04,"Phoenix, AZ","Arizona State",2,4,NULL,NULL
+65,92864,11,11423,Marcus,Crandell,8,1,1,5.11,205,1974-01-06,"Charlotte, NC","East Carolina",4,10,3,NULL
+67,NULL,11,11629,Donald,Brady,26,11,1,6.02,200,1973-11-26,"Bellmore, NY",Wisconsin,5,6,3,"2008-04-18 11:42:17"
+69,NULL,11,12282,Noah,Cantor,92,15,0,6.03,270,1971-01-11,"Ottawa, ON","Saint Marys",8,13,3,"2008-04-18 11:42:17"
+71,NULL,11,13001,Ed,Hervey,81,4,1,6.02,195,1973-05-04,"Houston, TX",USC,8,8,3,"2008-04-18 11:42:17"
+73,NULL,10,13360,Antonious,Bonner,10,13,1,6.01,208,1972-11-03,"Chicago, IL",Mississippi,10,11,4,"2008-04-18 11:42:17"
+75,NULL,11,13678,Carl,Kidd,26,13,1,6.01,230,1973-06-10,"Little Rock, AR",Arkansas,7,7,3,"2008-04-18 11:42:17"
+77,NULL,11,15312,Singor,Mobley,27,11,1,6.00,200,1972-10-12,"Tacoma, WA","Washington State",9,9,3,"2008-04-18 11:42:17"
+79,NULL,11,0,Conor,Elliott,49,35,0,5.11,195,1988-10-10,"London, ON","Western Ontario",1,1,4,NULL
+81,290150,11,15634,Rob,Lazeo,68,7,0,6.05,310,1973-03-23,"Abbotsford, BC","Western Illinois",4,13,3,NULL
+83,286543,11,15652,Rob,Hitchcock,42,13,0,6.01,210,1970-10-28,"Hamilton, ON","Weber State",1,12,3,"2008-04-18 11:42:17"
+85,286521,11,15658,Jude,"St. John",66,7,0,6.04,305,1972-12-04,"London, ON","Western Ontario",11,14,3,NULL
+87,286989,10,15664,Gene,Makowsky,60,7,0,6.03,300,1973-04-17,"Saskatoon, SK",Saskatchewan,17,17,15,NULL
+89,NULL,11,15693,Wade,Miller,34,3,0,,0,NULL,,Manitoba,0,0,4,NULL
+91,25875,65,15850,Henry,Burris,1,1,1,6.01,190,1975-06-04,"Spiro, OK",Temple,1,15,3,NULL
+93,NULL,10,16068,David,Hack,68,1,0,,0,NULL,,Maryland,0,0,4,"2008-04-18 11:42:17"
+95,286631,11,16161,Demetrious,Maxie,91,14,1,6.03,270,1973-10-18,"Shreveport, LA","Texas El Paso",4,13,3,"2008-04-18 11:42:17"
+97,286479,11,17714,Shannon,Garrett,23,13,1,5.10,195,1972-01-24,"St. Louis, MO","Mississippi College",14,14,3,"2008-04-18 11:42:17"
+99,141841,NULL,114242,Sandro,DeAngelis,12,16,0,5.08,195,1981-05-01,"Niagara Falls, ON",Nebraska,1,9,3,NULL
+101,NULL,11,18153,Khari,Jones,17,1,1,5.11,210,1971-05-16,"Hammond. IN","California Davis",1,9,3,"2008-04-18 11:42:17"
+103,NULL,11,23674,Joe,Fleming,76,15,1,6.03,285,1971-12-05,"Wellseley, MA","New Hampshire",5,10,3,"2008-04-18 11:42:17"
+105,NULL,11,23930,Joe,Montford,53,14,1,6.01,230,1970-07-30,"Buford, NC","South Carolina State",2,12,3,"2008-04-18 11:42:17"
+107,23060,11,25494,Derrell,Mitchell,87,5,1,5.09,190,1971-09-16,"Miami, FL","Texas Tech",8,11,3,"2008-04-18 11:42:17"
+109,500406,NULL,151364,Tristan,Black,51,13,0,6.02,221,1984-04-08,"Toronto, ON","Wayne State",2,6,19,NULL
+111,286522,10,28310,Orlondo,Steinauer,21,12,1,5.11,182,1973-06-09,"Seattle, WA","Western Washington",8,13,4,"2008-04-18 11:42:17"
+113,NULL,10,28426,Dedric,Mathis,26,10,0,,0,NULL,,Houston,0,0,4,"2008-04-18 11:42:17"
+115,NULL,11,30511,Kelly,Wiltshire,31,11,0,6.00,219,1972-06-28,"St. Laurent, QC","James Madison",10,10,3,"2008-04-18 11:42:17"
+117,NULL,11,30523,Mike,Mihelic,59,7,0,6.05,317,1973-03-11,"Toronto, ON",Indiana,10,10,3,"2008-04-18 11:42:17"
+119,NULL,11,30534,Sheldon,Napastuk,92,15,0,6.04,296,1974-08-05,"North Battleford, SK","Iowa State",4,8,3,"2008-04-18 11:42:17"
+121,NULL,10,30692,Glen,Young,55,13,0,,0,NULL,,Syracuse,0,0,4,"2008-04-18 11:42:17"
+123,NULL,11,30698,Moe,Elewonibi,65,7,0,6.04,258,1965-12-16,"Lagos, Nigeria","Brigham Young",5,10,3,"2008-04-18 11:42:17"
+125,NULL,10,39225,Lamar,Mcgriggs,36,13,0,,0,NULL,,"Western Illinois",0,0,4,"2008-04-18 11:42:17"
+127,334589,NULL,160137,Lindsey,Witten,79,21,1,6.05,250,1988-04-28,"Cleveland, OH",Connecticut,1,1,NULL,NULL
+129,NULL,10,42398,Ted,White,7,1,1,6.03,230,1976-05-29,"Baton Rouge, Louisiana",Howard,3,3,4,"2008-04-18 11:42:17"
+131,24996,10,42484,Michael,Bishop,13,1,1,6.02,223,1976-04-15,"Galveston, TX","Kansas State",2,9,3,NULL
+133,286724,11,44568,William,Loftus,18,12,0,6.01,195,1975-06-03,"Vancouver, BC",Manitoba,10,10,3,"2008-04-18 11:42:17"
+135,286561,10,44677,Brian,Clark,48,13,1,6.02,224,1974-05-05,"Quincy, IL",Hofstra,3,9,4,"2008-04-18 11:42:17"
+137,88501,11,44688,Chad,Folk,56,6,0,6.00,275,1972-10-28,"Kelowna, BC",Utah,12,12,3,"2008-04-18 11:42:17"
+139,24663,11,152914,Doug,Brown,97,15,0,6.08,290,1974-09-29,"New Westminster, BC","Simon Fraser",11,11,3,NULL
+141,95068,11,44694,Steve,Charbonneau,98,14,0,6.04,295,1973-05-30,"Cowansville, QC","New Hampshire",6,11,3,"2008-04-18 11:42:17"
+143,NULL,10,NULL,Brenden,Owens,79,4,0,6.01,185,1988-12-23,"Regina, SK",Regina,1,1,3,NULL
+145,85795,10,44713,Dave,Mudge,67,8,0,6.07,305,1974-10-22,"Oshawa, ON","Michigan State",4,10,3,"2008-04-18 11:42:17"
+147,286476,11,44757,Dan,Comiskey,60,9,0,6.05,302,1972-06-30,"Windsor, ON",Windsor,1,13,3,NULL
+149,NULL,11,44758,Kelly,Lochbaum,33,13,0,6.01,240,1973-04-03,"Abbotsford, BC","Northern Arizona",9,9,3,"2008-04-18 11:42:17"
+151,NULL,11,44759,Wayne,Weathers,99,14,0,6.04,255,1973-06-04,"Toronto, ON",Manitoba,7,7,3,"2008-04-18 11:42:17"
+153,286504,11,44762,Chris,Hardy,8,12,0,5.11,187,1972-06-06,"Edmonton, AB",Manitoba,6,12,3,"2008-04-18 11:42:17"
+155,NULL,10,44791,Jarrett,Smith,35,2,0,,0,NULL,,Waterloo,0,0,4,"2008-04-18 11:42:17"
+157,NULL,11,44798,Dave,Donaldson,37,11,0,5.10,185,1972-12-09,"Winnipeg, MB",Manitoba,10,10,3,"2008-04-18 11:42:17"
+159,273276,9,142772,Andrew,Hawkins,0,4,1,5.08,165,1986-03-10,"Johnstown, PA",Toledo,1,1,4,NULL
+161,NULL,11,47718,Nealon,Greene,17,1,1,5.10,205,1976-04-13,"Yonkers, NY",Clemson,9,9,3,"2008-04-18 11:42:17"
+163,290188,10,49317,Mike,Maurer,19,3,0,6.00,195,1975-10-06,"Saskatoon, SK","Regina Rams",5,13,3,NULL
+165,NULL,10,49841,Tee,Martin,12,1,1,6.02,230,1978-07-25,"Mobile, AL",Tennessee,3,3,4,"2008-04-18 11:42:17"
+167,24410,10,49842,John,Avery,20,2,1,5.10,192,1976-01-11,"Richmond, VA",Mississippi,3,4,4,"2008-04-18 11:42:17"
+169,286466,11,49982,Mark,Washington,23,11,1,5.09,190,1973-04-16,"Washington, DC",Rutgers,4,10,3,"2008-04-18 11:42:17"
+171,94363,11,51308,Robert,Brown,94,15,1,6.02,275,1974-05-12,Taiwan,"Southern Mississippi",6,11,3,"2008-04-18 11:42:17"
+173,24083,10,52059,Kenny,Wheaton,30,12,1,5.10,205,1975-03-08,"Phoenix, AZ",Oregon,6,6,3,"2008-04-18 11:42:17"
+175,86046,11,52061,A.J.,Gass,77,13,1,6.03,205,1975-11-29,"Bellflower, CA","Fresno State",10,10,3,"2008-04-18 11:42:17"
+177,NULL,10,53166,Bernard,Williams,69,8,1,6.09,275,1972-07-18,"Memphis, TN",Georgia,4,5,4,"2008-04-18 11:42:17"
+179,100397,11,53683,Tim,Fleiszer,43,14,0,6.03,266,1975-08-14,"Montreal, QC",Harvard,10,10,3,"2008-04-18 11:42:17"
+181,NULL,11,53691,Marc,Pilon,67,15,0,6.05,285,1975-02-18,"Ottawa, ON",Syracuse,8,8,3,"2008-04-18 11:42:17"
+183,NULL,10,NULL,Jerry,Porter,1,4,1,6.02,220,1978-07-14,"Washington, DC","West Virginia",1,1,3,NULL
+185,24563,10,53698,Ryan,Thelwell,8,4,0,6.02,195,1973-04-06,"London, ON",Minnesota,7,11,NULL,NULL
+187,NULL,10,53700,Samir,Chahine,51,1,0,,0,NULL,,McGill,0,0,4,"2008-04-18 11:42:17"
+189,286540,11,53701,Roger,Dunbrack,70,15,0,6.04,270,1975-10-08,"Dundas, ON","Western Ontario",10,10,3,"2008-04-18 11:42:17"
+191,NULL,10,53703,Matt,Kellett,15,16,0,6.00,200,1973-05-04,"Ottawa, Ontario",Saskatchewan,1,6,4,"2008-04-18 11:42:17"
+193,286535,9,53704,Scott,Flory,57,7,0,6.04,296,1976-07-15,"Regina, SK",Saskatchewan,15,15,15,NULL
+195,NULL,11,53706,Scott,Deibert,4,3,0,6.00,210,1970-10-02,"Moose Jaw, Saskatchewan","Minot State",5,8,3,"2008-04-18 11:42:17"
+197,86895,10,53787,Greg,Bearman,8,12,0,5.07,175,1975-08-02,"Richmond, BC","New Mexico State",3,8,3,"2008-06-09 17:41:54"
+199,NULL,12,NULL,Reed,Alexander,65,9,0,6.03,292,1987-09-30,"Medicine Hat, AB",Calgary,1,1,3,NULL
+201,NULL,10,54063,Quincy,Coleman,21,11,1,5.11,190,1975-07-23,"Macon, Mississippi","Jackson State",1,4,4,"2008-04-18 11:42:17"
+203,NULL,10,55018,Chris,Shelling,31,13,0,,0,NULL,,Auburn,0,0,4,"2008-04-18 11:42:17"
+205,262393,30,143296,M,S,92,21,0,6.04,247,1986-08-08,"Regina, SK",Montana,1,2,3,NULL
+207,NULL,10,57196,Keaton,Cromartie,56,14,1,6.02,245,1976-04-19,"Bradenton, Florida",Tulane,4,6,4,"2008-04-18 11:42:17"
+209,83924,NULL,57397,Geroy,Simon,81,5,1,6.00,198,1975-09-11,"Johnstown, PA",Maryland,2,16,15,NULL
+211,323079,10,159769,Deon,Beasley,20,11,1,5.10,180,1987-09-19,"Orange, TX",Texas,1,4,NULL,NULL
+213,NULL,10,57968,Jude,Waddy,90,13,1,6.02,225,1975-11-12,"Washington, D.C.","William & Mary",1,1,4,"2008-04-18 11:42:17"
+215,NULL,11,58575,Eric,England,95,14,1,6.03,268,1971-04-25,"Fort Wayne, IN","Texas A&M",4,5,3,"2008-04-18 11:42:17"
+217,24993,11,59261,JoJuan,Armour,11,13,1,6.00,225,1976-07-10,"Toledo, OH","Miami of Ohio",3,6,3,NULL
+219,NULL,10,59262,Craig,Yeast,84,4,1,5.07,165,1976-11-11,"Danville, KY",Kentucky,1,4,4,"2008-04-18 11:42:17"
+221,228655,NULL,151440,Greg,Fassitt,3,11,1,5.11,185,1985-04-20,"New Orleans, LA","Grambling State",2,2,3,NULL
+223,NULL,10,59561,Kevin,Johnson,44,13,0,,0,NULL,,"Ohio State",0,0,4,"2008-04-18 11:42:17"
+225,25047,11,59895,Bashir,Levingston,23,10,1,5.09,190,1976-10-02,"Seaside, CA","Eastern Washington",7,7,3,"2008-04-18 11:42:17"
+227,NULL,10,60042,Wane,Mcgarity,83,4,0,,0,NULL,,Texas,0,0,4,"2008-04-18 11:42:17"
+229,NULL,10,60501,Martay,Jenkins,84,4,1,6.00,206,1975-02-28,"Waterloo, IA","Nebraska Omaha",1,1,4,"2008-04-18 11:42:17"
+231,NULL,10,60536,Trevis,Smith,48,13,1,6.00,240,1976-08-09,"Montgomery, Alabama",Alabama,7,7,4,"2008-04-18 11:42:17"
+233,NULL,11,61292,Marc,Megna,54,14,0,,0,NULL,,Richmond,0,0,3,"2008-04-18 11:42:17"
+235,NULL,10,61362,Curtis,Jackson,85,4,1,5.09,196,1973-09-22,"Fort Worth, TX",Texas-Austin,1,3,4,"2008-04-18 11:42:17"
+237,NULL,11,62490,Sylvain,Girard,3,4,0,6.00,204,1975-10-03,"Chicoutimi, QC",Concordia,8,8,3,"2008-04-18 11:42:17"
+239,250778,10,117033,Cliff,Washburn,69,9,1,6.06,315,1980-01-25,"Rutherford County, NC","The Citadel",1,3,3,NULL
+241,286481,11,62507,Kevin,Lefsrud,65,6,0,6.04,295,1977-01-28,"Viking, AB",Saskatchewan,7,7,3,"2008-04-18 11:42:17"
+243,NULL,10,62510,David,"De La Perralle",57,7,0,6.07,315,1979-03-22,Montreal,Kentucky,6,1,4,"2008-04-18 11:42:17"
+245,108342,10,62512,Wayne,Shaw,29,12,0,5.09,189,1974-02-14,"Winnipeg, MB","Kent State",5,10,4,"2008-04-18 11:42:17"
+247,286796,11,62520,Corey,Grant,8,4,0,5.11,205,1976-12-22,"Stoney Creek, ON","Wilfrid Laurier",5,12,3,NULL
+249,286732,11,62529,Pascal,Cheron,66,9,0,6.04,305,1974-06-22,"Charlesborough, QC",Laval,7,8,3,"2008-04-18 11:42:17"
+251,91888,11,62531,Jeff,Pilon,64,8,0,6.06,300,1976-03-21,"Ottawa, ON",Syracuse,10,10,3,NULL
+253,286448,10,62533,Mike,Abou-Mechrek,67,7,0,6.06,300,1975-10-14,"Toronto, ON","Western Ontario",2,10,3,"2008-04-18 11:42:17"
+255,NULL,10,62538,Stephane,Fortin,6,11,0,,0,NULL,,Indianapolis,0,0,4,"2008-04-18 11:42:17"
+257,86434,11,62541,Kennedy,Nkeyasen,20,11,0,5.09,193,1976-08-04,Ghana,"Idaho State",9,9,3,"2008-04-18 11:42:17"
+259,106330,11,62552,Bobby,Singh,62,7,0,6.03,315,1975-11-21,Fiji,"Portland State",5,9,3,NULL
+261,NULL,11,62569,Eric,Lapointe,5,2,0,5.11,208,1974-09-13,"Montreal, QC","Mount Allison",6,8,3,"2008-04-18 11:42:18"
+263,NULL,11,62590,Jason,Kralt,6,13,0,6.01,240,1974-02-08,"Ottawa, Ontario",Carleton,5,8,3,"2008-04-18 11:42:18"
+265,NULL,11,62593,Jason,Crumb,10,11,0,6.00,188,1973-04-26,"Kelowna, BC",Saskatchewan,7,7,3,"2008-04-18 11:42:18"
+267,25362,10,63158,Jarious,Jackson,12,1,1,6.01,236,1977-05-03,"Tupelo, MS","Notre Dame",1,8,15,NULL
+269,105838,4,63531,Kevin,Glenn,5,1,1,5.10,203,1979-06-12,"Detroit, MI","Illinois State",4,14,3,NULL
+271,406332,10,170214,Renaldo,Sagesse,91,15,0,6.04,289,1986-12-23,"Montreal, QC",Michigan,1,1,3,NULL
+273,NULL,10,69034,Frank,Ferrara,95,15,1,6.03,275,1975-12-07,"Brooklyn, New York","Rhode Island",2,2,4,"2008-04-18 11:42:18"
+275,110044,10,69066,Dwan,Epps,48,14,1,6.01,242,1977-01-18,"Houston, TX","Texas Southern",1,4,4,"2008-04-18 11:42:18"
+277,111200,11,69751,Marcus,Brady,8,1,1,5.11,198,1979-09-24,"San Diego, CA","Cal State Northridge",3,7,3,"2008-04-18 11:42:18"
+279,97604,11,70784,John,Grace,7,13,1,5.11,223,1977-02-10,"Okeechobee, FL",Marshall,3,8,3,"2008-04-18 11:42:18"
+281,NULL,11,70877,LaDouphyous,McCalla,1,11,1,5.08,186,1976-01-01,"Tyler, TX",Rice,7,7,3,"2008-04-18 11:42:18"
+283,286497,10,71030,Jamie,Stoddard,88,4,0,6.01,196,1977-12-29,"Richmond, BC",Alberta,10,10,3,"2008-04-18 11:42:18"
+285,286777,11,71083,Donnie,Ruiz,17,11,0,6.00,200,1978-06-05,"Montreal, QC","Wilfrid Laurier",7,7,3,"2008-04-18 11:42:18"
+287,NULL,10,72486,Ryland,Wickman,55,13,0,,0,NULL,,"Sacramento State",0,0,4,"2008-04-18 11:42:18"
+289,NULL,11,72559,Reggie,Durden,5,10,1,5.08,170,1976-11-22,"Houston, TX","Florida State",6,6,3,"2008-04-18 11:42:18"
+291,82286,10,73243,Ben,Sankey,7,1,1,6.03,220,1976-12-05,"Chicago, IL","Wake Forest",6,7,3,"2008-04-18 11:42:18"
+293,84412,10,73405,Michael,Fletcher,2,13,1,5.10,209,1977-02-17,"Compton, CA",Oregon,7,9,3,"2008-04-18 11:42:18"
+295,NULL,10,73476,Spergon,Wynn,19,1,1,6.04,225,1978-08-10,"Houston, TX","Southwest Texas State",1,5,4,"2008-04-18 11:42:18"
+297,NULL,10,0,Adam,Dunk,53,13,0,6.01,220,1987-05-13,"Guelph, ON",Guelph,1,1,3,NULL
+299,87785,11,74159,Jeremaine,Copeland,80,5,1,6.02,205,1977-02-19,"Harriman, Tennessee",Tennessee,2,11,3,NULL
+301,NULL,11,74615,Clifford,Ivory,13,11,1,5.11,180,1975-08-01,"Thomasville, GA","Troy State",7,7,3,"2008-04-18 11:42:18"
+303,NULL,11,74675,Antonio,Warren,0,2,1,5.10,205,1975-11-25,"San Francisco, CA","California Poly State",1,6,3,"2008-04-18 11:42:18"
+305,NULL,10,74700,Michael,Jenkins,6,2,0,,0,NULL,,Arkansas,0,0,4,"2008-04-18 11:42:18"
+307,286529,10,74721,Tim,Bakker,64,6,0,6.04,302,1977-11-23,"Oakville, ON","Western Ontario",6,9,3,"2008-04-18 11:42:18"
+309,108195,11,74722,Donnavan,Carter,3,13,0,6.01,220,1975-04-20,"Toronto, ON","Northern Illinois",1,8,3,"2008-04-18 11:42:18"
+311,NULL,11,74723,Ibrahim,Tounkara,82,4,0,6.02,215,1976-04-23,"Montreal, QC",Ottawa,7,7,3,"2008-04-18 11:42:18"
+313,141820,10,102668,Wes,Lysack,30,12,0,6.01,203,1978-03-03,"Edmonton, AB",Manitoba,1,9,3,NULL
+315,NULL,11,74725,Scott,Regimbald,21,3,0,6.03,245,1975-11-23,"Montreal, QC",Houston,7,7,3,"2008-04-18 11:42:18"
+317,267710,10,153854,Michael,Grant,29,11,1,5.11,179,1986-03-30,"Stone Mountain, GA",Arkansas,1,2,5,NULL
+319,NULL,10,74730,Mat,Petz,55,13,0,6.03,255,1977-06-25,"Windsor, Ontario","Wake Forest",2,6,4,"2008-04-18 11:42:18"
+321,NULL,11,74732,Mike,Juhasz,19,4,0,6.02,200,1976-07-23,"Vancouver, BC","North Dakota",4,7,3,"2008-04-18 11:42:18"
+323,NULL,11,74737,Jason,Gavadza,36,5,0,6.03,249,1976-01-31,"Toronto, ON","Kent State",1,3,3,"2008-04-18 11:42:18"
+325,92152,11,74738,Brent,Johnson,97,14,0,6.04,262,1976-12-07,"Kingston, ON","Ohio State",11,11,NULL,NULL
+327,92200,11,74739,Clinton,Wayne,93,15,0,6.02,280,1977-05-07,"Scarborough, ON","Ohio State",9,9,3,"2008-04-18 11:42:18"
+329,264904,10,158271,Leslie,Majors,36,13,1,5.10,180,1986-02-18,"South Holland, IL",Indiana,1,1,3,NULL
+331,95254,11,74743,Markus,Howell,88,4,0,5.11,185,1975-04-21,"Winnipeg, MB","Texas Southern",7,12,3,NULL
+333,286470,11,74758,Matt,Sheridan,54,9,0,6.03,338,1977-05-27,"Montreal, QC",Manitoba,1,9,3,NULL
+335,NULL,10,74889,Willie,Fells,40,13,0,,0,NULL,,Purdue,0,0,4,"2008-04-18 11:42:18"
+337,NULL,10,NULL,Harry,"Von Kann",89,4,1,6.04,240,1988-08-19,"Washington DC","Kenyon College",1,1,3,NULL
+339,NULL,11,75115,George,White,36,13,1,6.01,204,1977-11-17,"Detroit, MI","Boston College",7,7,3,"2008-04-18 11:42:18"
+341,NULL,10,75344,Ronney,Jenkins,2,2,1,5.11,199,1977-05-25,"Los Angeles, CA","Northern Arizona",2,2,4,"2008-04-18 11:42:18"
+343,83240,9,75613,Anwar,Stewart,0,21,1,6.04,255,1976-02-09,"Panama, FL",Kentucky,11,13,15,NULL
+345,24014,10,75988,Troy,Davis,23,2,1,5.08,183,1975-09-14,"Miami, FL","Iowa State",2,6,4,"2008-04-18 11:42:18"
+347,NULL,10,76103,Da'Shann,Austin,22,11,1,5.11,180,1977-12-01,"Cleveland, Ohio","Northwest Oklahoma State",2,6,4,"2008-04-18 11:42:18"
+349,286508,NULL,76155,Jeff,Johnson,33,2,0,5.10,216,1977-02-28,"Toronto, ON",York,12,14,15,NULL
+351,NULL,11,76489,Duane,Butler,25,13,1,6.01,203,1973-11-29,"Trotwood, OH","Illinois State",4,6,3,"2008-04-18 11:42:18"
+353,NULL,10,77160,Nate,Terry,6,11,1,6.03,190,1976-10-05,"Miami, FL","West Virginia",2,3,4,"2008-04-18 11:42:18"
+355,NULL,10,77185,Sean,Woodson,38,13,0,,0,NULL,,"Jackson State",0,0,4,"2008-04-18 11:42:18"
+357,NULL,10,77452,Jason,Gesser,17,1,1,6.01,200,1978-03-06,"Honolulu, Hawaii","Washington State",1,1,4,"2008-04-18 11:42:18"
+359,NULL,10,0,"Timothy ",Strickland,38,13,1,5.11,184,1977-01-13,"Memphis, TN",Mississippi,1,7,4,"2008-09-15 13:40:30"
+361,NULL,10,77556,James,Cotton,99,14,1,6.03,255,1976-11-07,"Cleveland, OH","Ohio State",2,4,4,"2008-04-18 11:42:18"
+363,NULL,11,77591,Omar,Evans,4,11,1,6.00,195,1976-09-01,"Alexandria, VA",Howard,6,6,3,"2008-04-18 11:42:18"
+365,NULL,10,78135,Jerome,Davis,59,8,1,6.05,308,1974-03-04,"Detroit, MI",Minnesota,4,5,3,"2008-04-18 11:42:18"
+367,NULL,10,78288,Mike,Sutton,98,1,0,,0,NULL,,"Louisiana State",0,0,4,"2008-04-18 11:42:18"
+369,NULL,10,78681,Darnell,Kennedy,0,1,1,6.00,190,1976-10-08,"Mobile, Alabama","Alabama State",1,6,4,"2008-04-18 11:42:18"
+371,249849,10,78742,DeVonte,Peterson,94,15,1,6.02,275,1978-04-01,"Clinton, NC",Catawba,3,3,4,"2008-04-18 11:42:18"
+373,111525,10,78859,Charles,Roberts,1,2,1,5.06,177,1979-04-03,"Montclair, CA","Sacramento State",1,8,3,"2008-04-18 11:42:18"
+375,128666,10,79183,Keith,Stokes,17,4,1,5.07,184,1978-12-10,"Toms River, NJ","East Carolina",2,7,3,"2008-04-18 11:42:18"
+377,122716,11,79435,Corey,Holmes,1,2,1,5.08,189,1976-11-19,"Greensville, MS","Mississippi Valley St.",7,7,3,"2008-04-18 11:42:18"
+379,118853,10,79514,Terrell,Jurineack,79,14,1,6.05,285,1977-11-01,"Orlando, FL",Missouri,4,5,4,"2008-04-18 11:42:18"
+381,299954,5,153762,Stanley,Bryant,66,9,1,6.05,311,1986-05-07,"Goldsboro, NC","East Carolina",1,6,3,NULL
+383,75653,7,80458,Ricky,Ray,15,1,1,6.03,214,1979-10-22,"Happy Camp, CA","Sacramento State",4,13,9,NULL
+385,266887,10,156256,DJ,Boldin,87,4,1,5.11,216,1986-06-20,"Pahokee, FL","Wake Forest",1,1,3,NULL
+387,75680,10,80756,Renard,Cox,24,13,1,6.01,202,1978-03-03,"Richmond, VA",Maryland,1,4,4,"2008-04-18 11:42:18"
+389,NULL,10,81481,Andy,Petek,47,13,0,,0,NULL,,Montana,0,0,4,"2008-04-18 11:42:18"
+391,326994,11,81628,Nate,Davis,13,15,1,6.05,315,1974-02-06,"Richmond, Indiana",Indiana,7,7,3,"2008-04-18 11:42:18"
+393,82305,11,81775,Davin,Bush,2,11,1,5.08,165,1977-10-05,"Miami, FL","Central Florida",7,7,3,"2008-04-18 11:42:18"
+395,548297,NULL,158170,Akeem,Foster,88,4,0,6.04,222,1987-03-20,"Ajax, ON","St. Francis Xavier",2,6,3,NULL
+397,324334,10,158314,Marty,Mohamed,49,13,1,6.01,235,1987-11-22,"Brawley, CA","Cal Poly",1,1,3,NULL
+399,286465,11,81853,Angus,Reid,64,6,0,6.01,305,1976-09-23,"Richmond, BC","Simon Fraser",13,13,3,NULL
