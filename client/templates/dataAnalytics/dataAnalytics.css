@@ -1,0 +1,55 @@
+#colorpicker {
+border: 0px;
+  width: 23;
+  height: 342;
+  position: relative;
+  margin: 0px auto;
+  margin-left: 702px;
+
+  border-style: double;
+  border-width: 5px;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+
+
+.ct-chart ct-perfect-fourth{
+stroke: red;
+  /* Control the thikness of your lines */
+  stroke-width: 5px;
+  /* Create a dashed line with a pattern */
+  stroke-dasharray: 10px 20px;
+
+}
+
+
+.ct-chart2 ct-perfect-fourth{
+stroke: blue;
+  /* Control the thikness of your lines */
+  stroke-width: 5px;
+  /* Create a dashed line with a pattern */
+  stroke-dasharray: 10px 20px;
+
+}
+
+.ct-chart3 ct-perfect-fourth{
+stroke: green;
+  /* Control the thikness of your lines */
+  stroke-width: 5px;
+  /* Create a dashed line with a pattern */
+  stroke-dasharray: 10px 20px;
+
+}
+
+.ct-chart4 ct-perfect-fourth{
+stroke: yellow;
+  /* Control the thikness of your lines */
+  stroke-width: 5px;
+  /* Create a dashed line with a pattern */
+  stroke-dasharray: 10px 20px;
+
+}

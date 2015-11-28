@@ -1,0 +1,81 @@
+<template name="dashboard">
+  <div class="template-dashboard">
+    <div class="page-header">
+      <h1>Edit my meetup</h1>
+    </div>
+
+    <ul class="list-group">
+      {{#each mymeetups}}
+        <li class="list-group-item"><a data-toggle="modal" data-target="#modal{{_id}}">{{ name }}</a> <span class="label label-default">{{city}}, {{country}}</span> <a id="{{_id}}" class="pull-right remove-meetup"><i class="fa fa-remove"></i></a></li>
+
+
+        <div class="modal fade" id="modal{{_id}}" tabindex="-1" role="dialog" aria-labelledby="modal{{_id}}Label">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="modal{{_id}}Label">Edit Meetup</h4>
+      </div>
+      <div class="modal-body">
+         <form class="update-meetup-form">
+        <div class="form-group">
+                <label>Name</label>
+                <input type="text" class="form-control" id="name" name="name" value="{{name}}" placeholder="Name">
+            </div>
+            <div class="form-group">
+                <label>Age</label>
+                <input type="text" class="form-control" id="age" name="age" value="{{age}}" placeholder="Age">
+            </div>
+            <div class="form-group">
+                <label>Phone Number</label>
+                <input type="text" class="form-control" id="phoneNumber" name="phoneNumber" value="{{phoneNumber}}" placeholder="Phone Number">
+            </div>
+            <div class="form-group">
+                <label>Address</label>
+                <input type="text" class="form-control" id="address" name="address" value="{{address}}" placeholder="Address">
+            </div>
+            <div class="form-group">
+                <label>Country</label>
+                <input type="text" class="form-control" id="country" name="country" value="{{country}}" placeholder="Country">
+            </div>
+            <div class="form-group">
+                <label>Village</label>
+                <input type="text" class="form-control" id="city" name="city" value="{{city}}" placeholder="Village">
+            </div>
+            <div class="form-group">
+                <label>PO Box</label>
+                <input type="text" class="form-control" id="zipcode" name="zipcode" value="{{zipcode}}" placeholder="PO Box">
+            </div>
+            <div class="form-group">
+                <label>Date time visit since pregnancy</label>
+                <div class="input-group datetimepicker">
+                    <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                    <input class="set-due-date form-control" id="datevisit" name="datevisit" type="text" value="{{datevisit}}" />
+                  </div>
+            </div>
+            <div class="form-group">
+                <label>Number of Weeks Pregnant</label>
+                <input type="text" class="form-control" id="numWeeksPreggo" name="numWeeksPreggo" value="{{numWeeksPreggo}}" placeholder="Number of Weeks Pregnant">
+            </div>
+            <div class="form-group">
+                <label>Emergency Phone Number</label>
+                <input type="text" class="form-control" id="familyPhoneNumber" name="familyPhoneNumber" value="{{familyPhoneNumber}}" placeholder="Emergency Phone Number">
+            </div>
+
+
+            <input type="hidden" name="id" id="id" value="{{_id}}">
+             <button type="submit" class="btn btn-primary">Update Meetup</button>
+             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+    </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+      {{else}}
+        <p>You have not added any meetups</p>
+      {{/each}}
+    </ul>
+
+  </div>
+</template>

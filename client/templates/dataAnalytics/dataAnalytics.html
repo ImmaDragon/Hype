@@ -1,0 +1,73 @@
+<template name="dataAnalytics">
+<!-- dashboardia -->
+    <div class="container-fluid">
+      <div class="row">
+        <!--sidebar-->
+<!-- add navbar -->
+        <!--end of sidebar-->
+
+        <!--top section-->
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+
+
+        <div style="clear:both;"></div>
+      <!--bottom tables-->
+          <h2 class="sub-header" id="patient-quick">Mother Quickview</h2>
+          <div class="table-responsive">
+
+            <table id="tableID" class="table table-striped">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Age</th>
+                  <th>Heartrate of Mother</th>
+                  <th>Heartrate of Baby</th>
+                  <th>Weight of Mother</th>
+                  <th>Weight of Baby</th>
+                </tr>
+              </thead>
+              <tbody>
+              <!-- {{#each patientData}} -->
+                <tr>
+                  <td>name</td>
+                  <td>32</td>
+                  <td><span>134 BPM</span></td>
+                  <td>160 BPM</td>
+                  <td>145 lbs</td>
+                  <td>7 lbs</td>
+                </tr>
+
+              </tbody>
+            </table>
+          </div><!--end of table-->
+        <!--end of bottom section-->
+
+        </div>
+      </div>
+    </div><!--end of container fluid-->
+
+
+
+
+
+<!-- stats chart html -->
+<div class="colorpicker" id="colorpicker">
+    <h3>Heartrate of Mother</h3>
+    <h3>BPM</h3>
+    <div class="ct-chart ct-perfect-fourth" id="first"></div>
+
+    <h3>Heartrate of Baby</h3>
+    <h3>BPM</h3>
+    <div class="ct-chart2 ct-perfect-fourth" id="second"></div>
+
+    <h3>Weight of Mother</h3>
+    <h3>lbs.</h3>
+    <div class="ct-chart3 ct-perfect-fourth" id="third"></div>
+
+    <h3>Weight of Baby</h3>
+    <h3>lbs.</h3>
+    <div class="ct-chart4 ct-perfect-fourth" id="fourth"></div>
+</div>
+
+
+</template>
